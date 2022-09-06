@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @abdalla1611
+- 👋 Hi, I’m @abdalla
 - 👀 I’m interested in algorithms,Data structure , ML\DL , cloud 
-- 🌱 I’m currently learning CS
 
 
 <!---
